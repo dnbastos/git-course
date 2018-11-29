@@ -1,7 +1,7 @@
 #Git Course
 
-Arquivo da aula de iniciantes em github.
+Arquivo da aula de Git.
 
-Saiba mais em: https://willianjusten.com.br;
+Saiba mais em: https://www.udemy.com/git-e-github-para-iniciantes/
 
-Curso gratuito disponível em: https://www.udemy.com/git-e-github-para-iniciantes
+Curso criado por Willian Justen.
